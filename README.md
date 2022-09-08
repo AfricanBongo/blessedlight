@@ -1,6 +1,10 @@
-# blessed_light
+<h1 align=center> Blessed Light </h1>
 
-A new Flutter project.
+<p align="center">
+  <img src="https://github.com/AfricanBongo/blessedlight/blob/master/images/dayAndNight.png" height="496"/>
+</p>
+
+
 
 ## Getting Started
 
