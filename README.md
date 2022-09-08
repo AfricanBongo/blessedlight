@@ -51,7 +51,7 @@ With the powerful use of Material Design 3 it was easy to create a dark mode ver
 </br>
 
 ### Demonstration video
-<a href="https://drive.google.com/file/d/1lctDL1PSTG7t49dMx9xLTD9LBaWl1o04/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1lctDL1PSTG7t49dMx9xLTD9LBaWl1o04/view?usp=sharing" target="_blank">
   <img src="https://github.com/AfricanBongo/blessedlight/blob/master/images/playVideo.png" height="520"/>
 </a>
 
