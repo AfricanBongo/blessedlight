@@ -50,6 +50,11 @@ With the powerful use of Material Design 3 it was easy to create a dark mode ver
 
 </br>
 
+### Demonstration video
+<a href="https://drive.google.com/file/d/1lctDL1PSTG7t49dMx9xLTD9LBaWl1o04/view?usp=sharing">
+  <img src="https://github.com/AfricanBongo/blessedlight/blob/master/images/playVideo.png" height="520"/>
+</a>
+
 ## Tools used
 - ``` Figma ``` for as a design tool.
 - ``` Material Design 3``` for visual consistency.
